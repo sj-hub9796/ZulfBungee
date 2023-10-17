@@ -9,8 +9,5 @@
         <module name="ZulfBungee" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="ZulfBungee" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
